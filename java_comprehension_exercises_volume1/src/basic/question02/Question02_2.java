@@ -21,7 +21,7 @@ public class Question02_2 {
 		int itemPrice = Integer.parseInt(SitemPrice);
 
 		System.out.println("商品の名前は" + itemName + "です。");
-		System.out.println("商品の値段は" + itemPrice + "です。");
+		System.out.println("商品の値段は" + itemPrice + "円です。");
 
 	}
 }
