@@ -24,7 +24,7 @@ public class Question06_4 {
 
 		} while (sellFlag == 0);
 		System.out.println("売却する本の冊数は" + amountBooks + "札です。");
-		System.out.println("売却したほんの合計金額は" + amountBooks * bookPrice + "です。");
+		System.out.println("売却したほんの合計金額は" + amountBooks * bookPrice + "円です。");
 
 	}
 
